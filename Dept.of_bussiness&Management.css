@@ -1,0 +1,55 @@
+
+
+.header{
+	display: flex;
+	justify-content: center ;
+
+}
+
+.deptName{
+	font-family: 'Mate SC', serif;
+	padding-top: 15px;
+	padding-left: 50px;
+}
+
+.Umu_bg{
+	width: 100%;
+  height: auto;
+  object-fit: cover;
+  padding-bottom: 15px;
+
+}
+
+.table-data{
+	padding: 15px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.article1{
+	padding: 15px;
+}
+
+.info-name{
+	font-family: 'Signika Negative', sans-serif;
+	color: #1c8282;
+}
+
+.Faculty-info{
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
+
+.Faculty-table{
+	padding: 15px;
+}
+
+.info{
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+
+
+
